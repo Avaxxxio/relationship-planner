@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Relationship Planner
 
 A small React + Vite app for keeping a shared list of things to watch, play, do, and plan together.
@@ -80,3 +81,7 @@ To publish:
 
 - GitHub Pages is suitable for simple static hosting, but the site itself is publicly reachable unless you are using GitHub Enterprise features for restricted visibility.
 - This app currently has no authentication. Privacy is handled only by what data you choose to upload or share.
+=======
+# relationship-planner
+Totally vibecoded javascript relationship planner for planning stuff with your loved one
+>>>>>>> 92ac54d848b7610c84c29a16339c690075bcde7d
